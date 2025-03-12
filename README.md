@@ -8,3 +8,6 @@ It's a beginning of our homemade career.
 2025.3.10 finish "e-Candle" project 
 - add "EC340EGB" SchSyb
 - add "CR2450" FootprintSyb
+---
+2025.3.12 files adjustment
+---
